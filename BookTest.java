@@ -1,16 +1,4 @@
-//-------------------------------
-//Assignment #1
-//Question: Part - 2; this is a driver class
-//that executes the program
-//Written by: Jinchen Hu ID#40080398
-/**
- * 
- * <p>@author Jinchen Hu ID#40080398</p>
- * <p>COMP 249</p>
- * <p>Assignment #1</p>
- * <p>Due 11:59 PM - Friday, February 1, 2019</p>
- *
- */
+
 //import the Scanner package
 import java.util.Scanner;
 public class BookTest {
