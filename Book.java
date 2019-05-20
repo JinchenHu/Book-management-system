@@ -1,17 +1,4 @@
 
-//-------------------------------
-//Assignment #1
-//Question: Part - 1; the class 
-//define the attributes of book
-//Written by: Jinchen Hu ID#40080398
-/**
- * 
- * <p>@author Jinchen Hu ID#40080398</p>
- * <p>COMP 249</p>
- * <p>Assignment #1</p>
- * <p>Due 11:59 PM - Friday, February 1, 2019</p>
- *
- */
 public class Book {
 	//declare the instance variable title
 	private String title;
